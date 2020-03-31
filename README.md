@@ -14,7 +14,7 @@ Entity Relationship Diagram |
 The 8 views required were created using the procedures stored in "query.sql" from this repository.
 
 ## Bonus 
-After examining the data in table 1 and table 2, it seems that there is no difference in the average salaries for engineers, senior engineers assistant engineers and technical leaders. Same applies for staff and senior staff members. By including also the number of the employees grouped by title, it seems that this is a huge company, dominated by staff, senior staff, engineers and senior engineers, where staff members have the highest income. Considering this, it is highly unlikely that this company exists.
+After examining the data in chart 1 and chart 2, it seems that there is no difference in the average salaries for engineers, senior engineers assistant engineers and technical leaders. Same applies for staff and senior staff members. By including also the number of the distinct employees grouped by title, it seems that this is a huge company, dominated by staff, senior staff, engineers and senior engineers, where staff members have the highest income. Considering this, it is highly unlikely that this company exists.
 
 <img src=EmployeeSQL/Images/avgSalaries-Title.png>|
 :-------------------------:|
