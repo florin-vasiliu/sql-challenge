@@ -26,6 +26,6 @@ Chart 2 |
 
 Finally, after checking the badge number, it seems indeed that this was a test (see table 1).
 
- <img src=EmployeeSQL/Images/badge_number.png> |
+ <img src=EmployeeSQL/Images/badge_number.PNG> |
  :-------------------------:|
 Table 1 |
